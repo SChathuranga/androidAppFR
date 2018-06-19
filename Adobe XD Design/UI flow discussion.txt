@@ -1,0 +1,29 @@
+Hotel Reservation UIs
+
+Sign in / Home
+Sign Up
+Menu Category Selection					-add swipe menu and floating bottom menu (view plate button & Order plate)
+Menu Search (full search)
+Swipe Menu								to be cont.
+Menu Foods								-on tap display description and add button
+Menu Foods Search (meal search related the category)
+Plate view								
+Scan User card QR
+Scan Table QR
+Order Summary							- change plate button, plate summary with prices, Order plate button, add more button
+Order confirmed							- estimated delivery, plate status, time, plate delivered button(prompt confirmation) - returns to Menu
+
+My profile
+Plate orders history
+Favorite plates
+Settings
+
+
+
+
+- Future Developments -
+Develop an app for waitors: A plate get assigned to a waitor. When delivered update status of plate. Then customer's app get updated as delivered. So waitor can monitor his workload etc.. Allows customers to rate waitor and hotel.
+
+Add promo codes and seasonal offers
+
+External Food Delivery 
