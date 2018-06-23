@@ -10,8 +10,8 @@ Menu Foods Search (meal search related the category)
 Plate view								
 Scan User card QR
 Scan Table QR
-Order Summary							- change plate button, plate summary with prices, Order plate button, add more button
-Order confirmed							- estimated delivery, plate status, time, plate delivered button(prompt confirmation) - returns to Menu
+Order Summary- Konara							- change plate button, plate summary with prices, Order plate button, add more button
+Order confirmed	 -Konara						- estimated delivery, plate status, time, plate delivered button(prompt confirmation) - returns to Menu
 
 My profile
 Plate orders history
