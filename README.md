@@ -10,10 +10,11 @@ Completed UIs: <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Menu Search (full search) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Menu Foods			-	on tap display description and add button <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Menu Foods Search (meal search related the category) <br/>
-<br/>	
-To-do UIs: <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Menu Category Selection		-	add swipe menu and floating bottom menu (view plate button & Order plate) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Swipe Menu <br/>
+<br/>	
+
+To-do UIs: <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Plate view	<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	My profile <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Favorite plates <br/>
